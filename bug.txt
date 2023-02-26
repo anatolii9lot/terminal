@@ -1,0 +1,13 @@
+ID: 01
+Title: Font defect 
+Environment: Windows 10
+Preconditions: Unregistered user
+Severity: Minor
+Priority: Low
+STR: 1, 2, 3
+AR:
+ER:
+Attachments:
+--
+Author: Anatoly Brusov
+Date: XX.XX.XXXX
