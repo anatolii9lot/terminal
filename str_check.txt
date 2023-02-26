@@ -1,0 +1,4 @@
+Check registration process:
+1. The user already exists in the system;
+2. The user registers on the site for the first time;
+3. The user is blocked on the site, he does not have the opportunity to re-register.
